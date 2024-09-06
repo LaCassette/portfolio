@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Théo SOULIER",
+    "label": "Student & SaaS enthusiastic 🚀 Tech profile passionate from 10y 💻 NodeJs Developer (+1.5y) ✨",
+    "image": "/1721222392572.jpeg",
+    "email": "theos.pro@icloud.com",
+    "phone": "+33 667994410",
+    "url": "https://cassette.work",
+    "summary": "À 11 ans, j'ai développé une passion pour la technologie, la finance et le business. J'ai commencé en tant que technicien informatique, ce qui m'a permis de comprendre les besoins des utilisateurs. Il y a quatre ans, j'ai découvert le développement, un domaine qui me permet de transformer des idées en solutions concrètes. Mon objectif est de créer des produits impactants, maintenant j'ai 22 ans et un SaaS en préparation. 🚀",
+    "location": {
+      "address": "",
+      "postalCode": "Auvergne",
+      "city": "Auvergne",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Théo",
+        "url": "https://www.linkedin.com/in/theo-soulier-dev/"
+      },
+      {
+        "network": "GitHub",
+        "username": "lacassette",
+        "url": "https://github.com/laCassette"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Simplon Grand Ouest",
+      "position": "Développeur Web & Web Mobile",
+      "startDate": "2021-07-01",
+      "endDate": "2022-04-01",
+      "summary": "Développement de sites web statiques ou dynamiques, utilisation et développement d'API REST / SOAP sécurisées, et conception d'applications web ou mobiles.",
+      "highlights": []
+    },
+    {
+      "name": "SUBSKILL",
+      "position": "Développeur back-end",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "summary": "Concevoir, développer des sites internet, application web et/ou mobile. Déployer sur serveur, détecter et corriger des dysfonctionnements et créer de nouvelles fonctionnalités.",
+      "highlights": []
+    },
+    {
+      "name": "2i Academy",
+      "position": "Concepteur Développeur d’Application",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "summary": "Conception et développement d'applications web et/ou mobiles, développement multicouches, création et utilisation d'API REST / SOAP, gestion de projet avancée.",
+      "highlights": []
+    },
+    {
+      "name": "Campus26",
+      "position": "Concepteur Développeur d’Application",
+      "startDate": "2023-10-06",
+      "endDate": "2024-10-01",
+      "summary": "Conception et développement d'applications web et/ou mobiles, développement multicouches, création et utilisation d'API REST / SOAP, gestion de projet avancée.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Campus26",
+      "area": "Conception et développement d’application",
+      "studyType": "Titre professionnel (TP) de niveau 6",
+      "startDate": "2023-10-01",
+      "endDate": "2024-09-01",
+      "courses": []
+    },
+    {
+      "institution": "2i Academy",
+      "area": "Conception et développement d’application",
+      "studyType": "Titre professionnel (TP) de niveau 6",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-01",
+      "courses": []
+    },
+    {
+      "institution": "Simplon Grand Ouest",
+      "area": "Développeur Web & Web Mobile",
+      "studyType": "Titre professionnel (TP) de niveau 5",
+      "startDate": "2021-07-01",
+      "endDate": "2022-04-01",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "Node",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "PhP",
+      "level": "Avancée",
+      "keywords": []
+    },
+    {
+      "name": "Symfony",
+      "level": "Avancée",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "uReview",
+      "isActive": true,
+      "description": "Plateforme SaaS pour la gestion des avis Google Reviews à travers un système de subscription mensuelle. Facilite la collecte, l'analyse et la gestion des retours clients.",
+      "highlights": [
+        "Gestion des réponses par IA",
+        "Centralisation de la collecte d'avis",
+        "Tableau de bord analytique des avis"
+      ],
+      "url": "https://ureview.review",
+      "github": "https://github.com/laCassette"
+    }    
+  ]
+}
