@@ -29,11 +29,11 @@
   },
   "work": [
     {
-      "name": "Simplon Grand Ouest",
-      "position": "Développeur Web & Web Mobile",
-      "startDate": "2021-07-01",
-      "endDate": "2022-04-01",
-      "summary": "Développement de sites web statiques ou dynamiques, utilisation et développement d'API REST / SOAP sécurisées, et conception d'applications web ou mobiles.",
+      "name": "ShieldVPN & Freelance mission",
+      "position": "Concepteur Développeur d’Application",
+      "startDate": "2023-10-06",
+      "endDate": "2024-10-01",
+      "summary": "Conception et développement d'applications web et/ou mobiles, développement multicouches, création et utilisation d'API REST / SOAP, gestion de projet avancée.",
       "highlights": []
     },
     {
@@ -45,19 +45,11 @@
       "highlights": []
     },
     {
-      "name": "2i Academy",
-      "position": "Concepteur Développeur d’Application",
-      "startDate": "2022-09-01",
-      "endDate": "2023-02-01",
-      "summary": "Conception et développement d'applications web et/ou mobiles, développement multicouches, création et utilisation d'API REST / SOAP, gestion de projet avancée.",
-      "highlights": []
-    },
-    {
-      "name": "Campus26",
-      "position": "Concepteur Développeur d’Application",
-      "startDate": "2023-10-06",
-      "endDate": "2024-10-01",
-      "summary": "Conception et développement d'applications web et/ou mobiles, développement multicouches, création et utilisation d'API REST / SOAP, gestion de projet avancée.",
+      "name": "Eureka43",
+      "position": "Développeur Web & Web Mobile",
+      "startDate": "2021-07-01",
+      "endDate": "2022-04-01",
+      "summary": "Développement de sites web statiques ou dynamiques, utilisation et développement d'API REST / SOAP sécurisées, et conception d'applications web ou mobiles.",
       "highlights": []
     }
   ],
@@ -177,6 +169,18 @@
       ],
       "url": "https://ureview.review",
       "github": "https://github.com/laCassette"
-    }    
+    },
+    {
+      "name": "Pingify",
+      "isActive": true,
+      "description": "Outil de ping de site internet entiérement développer par Claude.AI en moins de 2h, fonctionnalité de reping et de stockage des site pingué dans le localStorage. Stylisé avec TailwindCSS.",
+      "highlights": [
+        "Vérifie le status et la latence d'un site internet",
+        "Développer entiérement par l'IA",
+        "ExpressJS"
+      ],
+      "url": "https://pingify.cassette.work",
+      "github": "https://github.com/laCassette/pingService"
+    }  
   ]
 }
